@@ -97,7 +97,8 @@ Add screenshots of:
 * Translation Accuracy Analytics
 
 ---
-PRACTICAL APPLICATION
+PRACTICAL APPLICATION ::
+
 if you want you can have an practical example by entering the given link
 http://10.92.10.237:8501
 
