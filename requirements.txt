@@ -3,3 +3,4 @@ deep-translator
 langdetect
 gtts
 pyperclip
+http://10.92.10.237:8501
